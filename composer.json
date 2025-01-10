@@ -1,8 +1,8 @@
 {
-    "name": "youfront/statamic-export",
+    "name": "tuanlerepo/statamic-export",
     "description": "Statamic Export",
     "require": {
-        "statamic/cms": "^3.0.0",
+        "statamic/cms": "^5.0.0",
         "league/csv": "^9.0.0"
     },
     "autoload": {
@@ -15,9 +15,6 @@
             "name": "Anders Søgaard"
         }
     ],
-    "support": {
-        "email": "team@youfront.dk"
-    },
     "extra": {
         "statamic": {
             "name": "Export",
